@@ -25,7 +25,7 @@ SECRET_KEY = '1d5)t5dz@rd@egy_s2^5kly@@2q36npzw%8!2ycim)jkm(_ixl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'tortien1129.pythonanywhare.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'toriten1129.pythonanywhare.com']
 
 
 # Application definition
